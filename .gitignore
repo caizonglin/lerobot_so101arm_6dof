@@ -173,7 +173,7 @@ outputs/
 
 # Dev folders
 .cache/*
-*.stl
+#*.stl
 #*.urdf
 #*.xml
 *.part
